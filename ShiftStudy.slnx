@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ShiftStudy.Api/ShiftStudy.Api.csproj" />
+    <Project Path="src/ShiftStudy.Application/ShiftStudy.Application.csproj" />
+    <Project Path="src/ShiftStudy.Domain/ShiftStudy.Domain.csproj" />
+    <Project Path="src/ShiftStudy.Infrastructure/ShiftStudy.Infrastructure.csproj" />
+    <Project Path="src/ShiftStudy.Scheduling/ShiftStudy.Scheduling.csproj" />
+    <Project Path="src/ShiftStudy.Web.Client/ShiftStudy.Web.Client.csproj" />
+    <Project Path="src/ShiftStudy.Web/ShiftStudy.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ShiftStudy.Api.IntegrationTests/ShiftStudy.Api.IntegrationTests.csproj" />
+    <Project Path="tests/ShiftStudy.Application.Tests/ShiftStudy.Application.Tests.csproj" />
+    <Project Path="tests/ShiftStudy.ArchitectureTests/ShiftStudy.ArchitectureTests.csproj" />
+    <Project Path="tests/ShiftStudy.Scheduling.Benchmarks/ShiftStudy.Scheduling.Benchmarks.csproj" />
+    <Project Path="tests/ShiftStudy.Scheduling.Tests/ShiftStudy.Scheduling.Tests.csproj" />
+    <Project Path="tests/ShiftStudy.Web.Tests/ShiftStudy.Web.Tests.csproj" />
+  </Folder>
+</Solution>
